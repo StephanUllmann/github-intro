@@ -22,3 +22,7 @@ h1 {
   text-align: center;
   margin-block: 2rem;
 }
+
+p {
+  max-width: 80ch;
+}
